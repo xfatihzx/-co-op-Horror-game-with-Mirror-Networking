@@ -7,3 +7,6 @@ Ayrıca oyunda bizi korkutmak için bir adet enemy var. Bu enemy bizi belli algo
 Oyunda Mirror Networking kullanılıyor ve multiplayer özelliklerini NetworkBehaviour üzerinden kontrol ediyoruz. 
 
 Oyun şu aşamada V0,3 dür. Şu anda geliştirmesi duraklatıldı ve gerekli şartlar sağlandığında geliştirme süreci devam edecektir.
+
+
+Not: Oyundaki kodlar Mirror Networking ile co-op'a uygun olarak düzenlendiği için single player kodları -co-op-Horror-game-with-Mirror-Networking/ReflectionOfDarkness/Assets/Scripts/Deprecateds/ yolunda bulunmaktadır.

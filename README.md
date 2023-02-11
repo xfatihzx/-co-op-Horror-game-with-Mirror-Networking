@@ -9,7 +9,7 @@ Oyunda Mirror Networking kullanılıyor ve multiplayer özelliklerini NetworkBeh
 Oyun şu aşamada V0,3 dür. Şu anda geliştirmesi duraklatıldı ve gerekli şartlar sağlandığında geliştirme süreci devam edecektir.
 
 
-Not: Oyundaki kodlar Mirror Networking ile co-op'a uygun olarak düzenlendiği için single player kodları -co-op-Horror-game-with-Mirror-Networking/ReflectionOfDarkness/Assets/Scripts/Deprecateds/ yolunda bulunmaktadır.
+Not: Oyundaki kodlar Mirror Networking ile co-op'a uygun olarak düzenlendiği için single player kodları -co-op-Horror-game-with-Mirror-Networking/ReflectionOfDarkness/Assets/Scripts/Deprecateds/ yolunda bulunmaktadır. Yazılan tüm Scriptler'e oradan ulaşabilir ve inceleyebilirsiniz. Oyun geliştirilmeye devam edildiği için detaylara ve senaryosuna giriş yapmıyorum.
 
 İstanbul Aydın Üniversitesi GameLab'da yaptığımız çalışmalardan küçük bir kare:
 

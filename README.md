@@ -2,7 +2,7 @@
 
 Ünity ile Mirror Networking kullanılarak geliştirilen korku oyunudur. Proje üzerinde 9 ay boyunça çalışıldı. Oyunda playerController ile karakter kontrolünü sağlarken objelerle iletişimi geçebiliyoruz. Etkileşime geçtiğimiz objeleri inceleyebilir ve bulmacaları çözebiliriz. 
 
-Ayrıca oyunda bizi korkutmak için bir adet enemy var. Bu enemy bizi belli algoritmalarda takip edip jumpScare ve SoundJumpScare komutlarıyla korkutmaya ce germeye çalışmaktadır. Enemy bir çok parametreye sahiptir örn: kızgınlık. Playerlar da bir çok parametreye sahiptir. örn: akıl sağlığı ve korku. Player enemy ilişkisi bu parametrelerle yönetiliyor.
+Ayrıca oyunda bizi korkutmak için bir adet enemy var. Bu enemy bizi belli algoritmalarda takip edip jumpScare ve SoundJumpScare komutlarıyla korkutmaya ve germeye çalışmaktadır. Enemy bir çok parametreye sahiptir örn: kızgınlık. Playerlar da bir çok parametreye sahiptir. örn: akıl sağlığı ve korku. Player enemy ilişkisi bu parametrelerle yönetiliyor.
 
 Oyunda Mirror Networking kullanılıyor ve multiplayer özelliklerini NetworkBehaviour üzerinden kontrol ediyoruz. 
 

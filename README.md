@@ -13,5 +13,7 @@ Not: Oyundaki kodlar Mirror Networking ile co-op'a uygun olarak düzenlendiği i
 
 İstanbul Aydın Üniversitesi GameLab'da yaptığımız çalışmalardan küçük bir kare:
 
-https://user-images.githubusercontent.com/90801002/218258213-cc18854b-15d7-41f3-affd-df3ffe81fe6a.mp4
+Uploading Game lab.mp4…
+
+
 

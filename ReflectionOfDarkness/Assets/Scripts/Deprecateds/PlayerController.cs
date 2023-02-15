@@ -270,7 +270,6 @@ namespace Depracteds
             }
             else if (scares.inFearTrigger == false)
             {
-                // Debug.Log("ben orospu çocuğuyum");
                 if (myFearPlasBool == true)     //korku en az 1 kere artmış olmalı. 0 a eşit olmamalı.
                 {
                     fearCounterMinus += Time.deltaTime;
@@ -378,7 +377,7 @@ namespace Depracteds
                                                                 //Debug.Log("Start coroutine is work" + "    " + "you have to wait 15 secend");
                 }
                 if (Logger.IsEnabled(LogLevel.Info))
-                    Logger.@do.Info("I want to go home momy(100)");
+                    Logger.@do.Info("I want to go home(100)");
             }
         }
 
